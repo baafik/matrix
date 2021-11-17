@@ -6,6 +6,9 @@ import { createStackNavigator } from "@react-navigation/stack";
 import Login from "./screens/Login";
 import Home from "./screens/Home";
 import Cart from "./screens/Cart";
+import {CartProvider} from "react-use-cart"
+// import data from "./products/data"
+
 
 
 
@@ -21,7 +24,7 @@ export default function App() {
          <MainNavigator.Screen name="Home" component={Home}></MainNavigator.Screen>
          <MainNavigator.Screen name="Login" component={Login}></MainNavigator.Screen>
          <MainNavigator.Screen name="Cart" component={Cart}></MainNavigator.Screen>
-        
+         {/* <MainNavigator.Screen name="data" component={data}></MainNavigator.Screen> */}
         
         
         
