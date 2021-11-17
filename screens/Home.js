@@ -134,6 +134,286 @@ export default function Home({navigation}) {
                                 </View>
                                 
                             </View>
+                            <View style={styles.box}>
+                            <Text style={styles.heads}>Fashion</Text>
+                                <View style={styles.inner}>
+                                     
+                                    
+                                      
+                                       
+                                       <Image 
+                                       
+                                        style={{
+                                            borderTopLeftRadius:30, 
+                                            borderBottomLeftRadius:30, 
+                                            borderBottomRightRadius:30,
+                                           marginTop:1,
+                                           borderTopRightRadius:30,
+                                    height:"60%",
+                                    width:120,
+                                    backgroundColor: "#D7CFCD"
+                                }} source={require("../assets/Food/0dd8fe7d62c088868f1899bfdd8b6394.png")}>
+
+                                    </Image>
+                                    
+                                    <View style={styles.textview}>
+                                    <Text style={styles.text}>
+                                      Tops for Ladies
+                                    </Text>
+                                    <Text style={styles.text}>Different colours in stock</Text>
+                                    <Text style={styles.text}>Different sizes available</Text>
+                                    
+                                  
+                                    <TouchableOpacity 
+                                    onPress={() => {
+                                        navigation.navigate("cloths")
+                                    }}
+                                    style={{backgroundColor:'blue',
+                                        padding:10,
+                                    paddingHorizontal:30,
+                                    flexDirection:'row',
+                                    marginTop:30,
+                                    marginRight:10,
+                                    width:150,
+                                    height:40,
+                                    borderTopRightRadius:30, 
+                                    borderTopLeftRadius:30, 
+                                    borderBottomLeftRadius:30, 
+                                    borderBottomRightRadius:30,
+                                    alignContent:'center'
+                                                }}
+                                    >
+                                                <Text style={{fontSize:16, marginLeft:20}}>Buy</Text>
+                                    </TouchableOpacity>
+                                    </View>
+
+                                </View>
+                                
+                            </View>
+                            <View style={styles.box}>
+                            <Text style={styles.heads}>Fashion</Text>
+                                <View style={styles.inner}>
+                                     
+                                    
+                                      
+                                       
+                                       <Image 
+                                       
+                                        style={{
+                                            borderTopLeftRadius:30, 
+                                            borderBottomLeftRadius:30, 
+                                            borderBottomRightRadius:30,
+                                           marginTop:1,
+                                           borderTopRightRadius:30,
+                                    height:"60%",
+                                    width:120,
+                                    backgroundColor: "#D7CFCD"
+                                }} source={require("../assets/Food/0dd8fe7d62c088868f1899bfdd8b6394.png")}>
+
+                                    </Image>
+                                    
+                                    <View style={styles.textview}>
+                                    <Text style={styles.text}>
+                                      Tops for Ladies
+                                    </Text>
+                                    <Text style={styles.text}>Different colours in stock</Text>
+                                    <Text style={styles.text}>Different sizes available</Text>
+                                    
+                                  
+                                    <TouchableOpacity 
+                                    onPress={() => {
+                                        navigation.navigate("cloths")
+                                    }}
+                                    style={{backgroundColor:'blue',
+                                        padding:10,
+                                    paddingHorizontal:30,
+                                    flexDirection:'row',
+                                    marginTop:30,
+                                    marginRight:10,
+                                    width:150,
+                                    height:40,
+                                    borderTopRightRadius:30, 
+                                    borderTopLeftRadius:30, 
+                                    borderBottomLeftRadius:30, 
+                                    borderBottomRightRadius:30,
+                                    alignContent:'center'
+                                                }}
+                                    >
+                                                <Text style={{fontSize:16, marginLeft:20}}>Buy</Text>
+                                    </TouchableOpacity>
+                                    </View>
+
+                                </View>
+                                
+                            </View>
+                            <View style={styles.box}>
+                            <Text style={styles.heads}>Fashion</Text>
+                                <View style={styles.inner}>
+                                     
+                                    
+                                      
+                                       
+                                       <Image 
+                                       
+                                        style={{
+                                            borderTopLeftRadius:30, 
+                                            borderBottomLeftRadius:30, 
+                                            borderBottomRightRadius:30,
+                                           marginTop:1,
+                                           borderTopRightRadius:30,
+                                    height:"60%",
+                                    width:120,
+                                    backgroundColor: "#D7CFCD"
+                                }} source={require("../assets/Food/0dd8fe7d62c088868f1899bfdd8b6394.png")}>
+
+                                    </Image>
+                                    
+                                    <View style={styles.textview}>
+                                    <Text style={styles.text}>
+                                      Tops for Ladies
+                                    </Text>
+                                    <Text style={styles.text}>Different colours in stock</Text>
+                                    <Text style={styles.text}>Different sizes available</Text>
+                                    
+                                  
+                                    <TouchableOpacity 
+                                    onPress={() => {
+                                        navigation.navigate("cloths")
+                                    }}
+                                    style={{backgroundColor:'blue',
+                                        padding:10,
+                                    paddingHorizontal:30,
+                                    flexDirection:'row',
+                                    marginTop:30,
+                                    marginRight:10,
+                                    width:150,
+                                    height:40,
+                                    borderTopRightRadius:30, 
+                                    borderTopLeftRadius:30, 
+                                    borderBottomLeftRadius:30, 
+                                    borderBottomRightRadius:30,
+                                    alignContent:'center'
+                                                }}
+                                    >
+                                                <Text style={{fontSize:16, marginLeft:20}}>Buy</Text>
+                                    </TouchableOpacity>
+                                    </View>
+
+                                </View>
+                                
+                            </View>
+                            <View style={styles.box}>
+                            <Text style={styles.heads}>Fashion</Text>
+                                <View style={styles.inner}>
+                                     
+                                    
+                                      
+                                       
+                                       <Image 
+                                       
+                                        style={{
+                                            borderTopLeftRadius:30, 
+                                            borderBottomLeftRadius:30, 
+                                            borderBottomRightRadius:30,
+                                           marginTop:1,
+                                           borderTopRightRadius:30,
+                                    height:"60%",
+                                    width:120,
+                                    backgroundColor: "#D7CFCD"
+                                }} source={require("../assets/Food/0dd8fe7d62c088868f1899bfdd8b6394.png")}>
+
+                                    </Image>
+                                    
+                                    <View style={styles.textview}>
+                                    <Text style={styles.text}>
+                                      Tops for Ladies
+                                    </Text>
+                                    <Text style={styles.text}>Different colours in stock</Text>
+                                    <Text style={styles.text}>Different sizes available</Text>
+                                    
+                                  
+                                    <TouchableOpacity 
+                                    onPress={() => {
+                                        navigation.navigate("cloths")
+                                    }}
+                                    style={{backgroundColor:'blue',
+                                        padding:10,
+                                    paddingHorizontal:30,
+                                    flexDirection:'row',
+                                    marginTop:30,
+                                    marginRight:10,
+                                    width:150,
+                                    height:40,
+                                    borderTopRightRadius:30, 
+                                    borderTopLeftRadius:30, 
+                                    borderBottomLeftRadius:30, 
+                                    borderBottomRightRadius:30,
+                                    alignContent:'center'
+                                                }}
+                                    >
+                                                <Text style={{fontSize:16, marginLeft:20}}>Buy</Text>
+                                    </TouchableOpacity>
+                                    </View>
+
+                                </View>
+                                
+                            </View>
+                            <View style={styles.box}>
+                            <Text style={styles.heads}>Fashion</Text>
+                                <View style={styles.inner}>
+                                     
+                                    
+                                      
+                                       
+                                       <Image 
+                                       
+                                        style={{
+                                            borderTopLeftRadius:30, 
+                                            borderBottomLeftRadius:30, 
+                                            borderBottomRightRadius:30,
+                                           marginTop:1,
+                                           borderTopRightRadius:30,
+                                    height:"60%",
+                                    width:120,
+                                    backgroundColor: "#D7CFCD"
+                                }} source={require("../assets/Food/0dd8fe7d62c088868f1899bfdd8b6394.png")}>
+
+                                    </Image>
+                                    
+                                    <View style={styles.textview}>
+                                    <Text style={styles.text}>
+                                      Tops for Ladies
+                                    </Text>
+                                    <Text style={styles.text}>Different colours in stock</Text>
+                                    <Text style={styles.text}>Different sizes available</Text>
+                                    
+                                  
+                                    <TouchableOpacity 
+                                    onPress={() => {
+                                        navigation.navigate("cloths")
+                                    }}
+                                    style={{backgroundColor:'blue',
+                                        padding:10,
+                                    paddingHorizontal:30,
+                                    flexDirection:'row',
+                                    marginTop:30,
+                                    marginRight:10,
+                                    width:150,
+                                    height:40,
+                                    borderTopRightRadius:30, 
+                                    borderTopLeftRadius:30, 
+                                    borderBottomLeftRadius:30, 
+                                    borderBottomRightRadius:30,
+                                    alignContent:'center'
+                                                }}
+                                    >
+                                                <Text style={{fontSize:16, marginLeft:20}}>Buy</Text>
+                                    </TouchableOpacity>
+                                    </View>
+
+                                </View>
+                                
+                            </View>
 
 
                            
